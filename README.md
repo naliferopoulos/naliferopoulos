@@ -12,7 +12,7 @@ Hey there! Here's a few stuff about me, in no particular order.
 - Kernels
 - Pwnables
 - Infosec
-- Low-level nerdy stuffz
+- Low-level herpa-derping
 
 ### I dislike:
 - Racism/Sexism/Discrimination
