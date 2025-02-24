@@ -1,25 +1,6 @@
-Hey there! Here's a few stuff about me, in no particular order.
+I develop malware and offensive tooling for the [Hackcraft](https://hackcraft.gr) Red Team. I spend a lot of my time writing low-level code, reverse engineering, or staring at debugger screens.
 
-### I like: 
-- Computers
-- Beer
-- Open-source
-- Cats
-- Mechanical Keyboards
-- Hammocks
-
-### I spend most of my time doing:
-- Kernels
-- Pwnables
-- Infosec
-- Low-level herpa-derping
-
-### I dislike:
-- Racism/Sexism/Discrimination
-- Capitalism
-- Uncommented hax in code
-
-You can find me on [Twitter](https://twitter.com/naliferopoulos), [my blog](https://naliferopoulos.github.io/ThinkingInBinary) or lying on a hammock.
+You can find me on [Twitter](https://twitter.com/naliferopoulos) and at [my blog](https://naliferopoulos.github.io/ThinkingInBinary).
 
 <!--
 Flag: ThisIsAPrettyLongFlagCongratsForFindingIt!
