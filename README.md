@@ -1,6 +1,6 @@
 I develop malware and offensive tooling for the [Hackcraft](https://hackcraft.gr) Red Team. I spend a lot of my time writing low-level code, reverse engineering, or staring at debugger screens.
 
-You can find me on [Twitter](https://twitter.com/naliferopoulos) and at [my blog](https://naliferopoulos.github.io/ThinkingInBinary).
+You can find me on [LinkedIn](https://www.linkedin.com/in/naliferopoulos/), [Twitter](https://twitter.com/naliferopoulos) and at [my blog](https://naliferopoulos.github.io/ThinkingInBinary).
 
 <!--
 Flag: ThisIsAPrettyLongFlagCongratsForFindingIt!
